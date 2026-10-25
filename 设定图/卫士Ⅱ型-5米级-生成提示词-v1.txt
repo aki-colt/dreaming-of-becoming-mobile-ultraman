@@ -1,0 +1,35 @@
+Use case: stylized-concept with infographic-diagram.
+Create a polished, high-resolution landscape mechanical design reference sheet for an ORIGINAL 5-meter Mobile-Ultraman light colony security mecha for the Chinese science-fiction novel 憧憬成为机动奥特曼. This is a mechanical setting sheet, not a book cover. Inspired by the clarity and technical organization of classic Japanese real-robot animation production model sheets and Gundam mechanical design documentation, but design an original machine.
+
+Title exactly: “M-U 卫士Ⅱ型”
+Subtitle exactly: “5米级 · 殖民地设施警戒机”
+Cream-white drafting-paper background, thin charcoal technical linework, precise cel shading, flat red/silver color regions, subtle neutral gray shadows. Very legible simplified Chinese labels. Professional engineering concept art, carefully arranged panels with generous margins, consistent same design across every view. No scenery, no dramatic combat, no cinematic render. A wide 3:2 or 16:10 sheet.
+
+DESIGN:
+Total upright height 5.0m, human pilot height 1.75m shown accurately at the same scale.
+Compact 4-head-high human-piloted industrial biped, broad deep chest, robust short thighs and shins, wide flat articulated feet, rounded-angular segmented armor. Heavy low center of gravity with small shoulder profile for navigating colony corridors. Distinctly mechanical, with visible gray actuator links, rotary joints and rubber bellows. NOT a tall slim heroic Gundam, NOT a person wearing an Ultraman bodysuit.
+Ultraman-inspired RED AND SILVER ONLY as dominant armor palette: silver chest center, silver head and limbs, deep red shoulder caps, red chest side panels and shin armor strips, dark charcoal joints, small amber sensor lights. Red/silver distributed as separate manufactured armor panels, not skin markings. Small rounded trapezoidal sensor head with a short central crest, two horizontal amber optical sensor blocks and no human mouth. No V-fin, no Gundam face, no alien organic anatomy.
+Single seated pilot in the large central lower-chest/upper-abdomen cockpit. A real human-sized protective capsule, with helmeted pilot torso inside chest and legs bent down into upper pelvis. NOT a cockpit in the small head, NOT a wearable exoskeleton, NOT multiple seats. Rear lower-torso armored equipment box houses power system and hydraulic circulation, minimal back mass. No spaceflight backpack, no large thrusters, no wings.
+Equipment: left forearm has a compact red/silver rectangular riot shield with grip; right hand holds a short thick water/foam projector with hose and drum reservoir, NOT a long beam rifle. A collapsed telescoping breaching baton holstered on right hip. Articulated fingers for rescue handling. Show main orthographic views with hands free or equipment alongside so mechanical silhouette is clear.
+
+LAYOUT:
+Left two-thirds: large neutral-standing FRONT view, SIDE view and BACK view, all matching proportions and at identical scale; a vertical dimension bracket labeled “全高 5.0 m”; a tiny uniformed helmeted pilot next to front view labeled “驾驶员 1.75 m”. Weapons drawn separately at bottom left: “盾牌”, “水炮 / 泡沫投射器”, “伸缩破障警棍”. Thin numbered leader lines from machine features to short labels, ensure correct term matches the part:
+“01 光学传感头”
+“02 胸腹驾驶舱”
+“03 肩部限位关节”
+“04 前臂工具接口”
+“05 膝部液压连杆”
+“06 双段足底”
+“07 背部动力模块”
+“08 应急手动解锁”
+
+Right upper panel: a LARGE side cutaway detail labeled “驾驶舱剖面”, showing the single helmeted human sitting semi-upright in a suspended safety seat, bent knees with room and scale, harness, head-mounted neural interface, compact emergency controls, a clear path through the anterior chest door. The door is one central frontal chest hatch hinged along TOP edge, opens UPWARD, exposing entry into single cockpit. Labels “单人座椅”, “脑电接口”, “应急控制”, “前开式舱门”. Exterior hatch outline must agree with front and side views.
+
+Right lower half: THREE clear sequential small diagrams labeled “驾驶员进出流程”, connected by thin arrows:
+“① 跪姿停机”: SAME mecha kneels with knees bent and broad feet stable, weapon stowed, hatch closed.
+“② 开舱放梯”: SAME kneeling mecha with central FRONT chest hatch rotated UP about its top hinge; two-to-three rung retractable ladder descends from cockpit threshold to the deck, entry height plausible for 1.75m human. Human stands at ladder base.
+“③ 登梯入舱”: same kneeling mecha, hatch open upward, human climbing the ladder into the cockpit with clear hands/feet contact points. Tiny inset or return arrow indicates exit follows reverse steps; text “退出按反向流程”.
+Do NOT show an adult stepping into a tiny helmet, do NOT put ladder on the back, do NOT change hatch position across panels.
+
+Footer with only short notes: “设施内作战 · 低重心 · 单人驾驶” and “不具备独立宇宙作战能力”.
+Aim for an attractive, technically coherent and readable setting sheet with all required explanatory and entry illustrations. Keep text short, exact, sharp and correct. No logos, no watermark, no extra lore prose.
